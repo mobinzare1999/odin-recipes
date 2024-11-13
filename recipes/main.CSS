@@ -1,0 +1,30 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.h1 {
+    font-weight: bold;
+    background-color: black;
+    color: yellow;
+}
+#img {
+    height: auto;
+    width: 500px;
+    border-image: auto;
+}
+.ingredients{
+    list-style-position: inside;
+    color: rgb(2, 14, 80);
+    background-color: whitesmoke;
+}
+.cook{
+    list-style-position: inside;
+    color: rgb(2, 14, 80);
+    background-color: whitesmoke;
+}
+.ing ,.htc{
+    background-color: red;
+    color: blue;
+    font-weight: bold;
+}
